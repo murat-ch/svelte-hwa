@@ -5,5 +5,5 @@
 </style>
 
 <div bp="grid">
-    <img bp="offset-5@md 4@md 12@sm" src="./img/handwash.gif" alt="handwashing">
+    <img bp="offset-5@md 4@md 12@sm" src="./media/handwash.gif" alt="handwashing">
 </div>
