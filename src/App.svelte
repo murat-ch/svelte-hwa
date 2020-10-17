@@ -26,5 +26,6 @@
 </h3>
 
 <audio bind:this={audio}>
+    <track kind="captions">
     <source src="./media/Oh_Yeah.wav" />
 </audio>
